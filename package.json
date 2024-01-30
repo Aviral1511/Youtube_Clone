@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.2",
+    "react-player": "^2.14.1"
+  }
+}
